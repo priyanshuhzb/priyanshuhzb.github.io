@@ -26,10 +26,10 @@ latest_posts:
 ---
 
 Hi, I am an Engineer at ideaForge, Mumbai. My current focus is to get deep understanding of the fields: electronics,core software,communication and autonomy.
-I am interested in Drones, and have been building them since over 5 years. I would be happy to connect with like-minded individuals for any such exciting discussion.
+I am interested in Drones, and have been building them for over 5 years. I would be happy to connect with like-minded individuals for any such exciting discussion.
 
 My major interest areas are:-
-1. Electronics- Communication Design(LORA,wifibrodcast), STM32 Flight computers, IP Cameras
+1. Electronics- Communication Design(LORA,wifibrodcast), STM32 Flight-computers, IP Cameras
 2. Autonomy- ROS,VIO,SLAM
 3. Software- Linux,C,C++,python
 4. Tools- Ardupilot,Betaflight,Fusion360,Kicad
